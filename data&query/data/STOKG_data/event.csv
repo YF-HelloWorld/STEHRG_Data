@@ -1,0 +1,12 @@
+﻿Event_ID,name,label
+Event0,Relocation and Rename Event,Event
+Event1,Rebuild Event,Event
+Event2,Rename Event,Event
+Event3,Rename Event,Event
+Event4,Merge Event,Event
+Event5,Restructure Event,Event
+Event6,Relocation Event,Event
+Event7,Relocation Event,Event
+Event8,Relocation Event,Event
+Event9,Takeover and Rename Event,Event
+Event10,Merge Event,Event

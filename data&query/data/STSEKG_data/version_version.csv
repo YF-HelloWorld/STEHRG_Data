@@ -1,0 +1,24 @@
+version_ID,version_ID,name,Vname,Vo,Vt
+version0,version1,Time_change,Time,1893-01-01,1902-10-01
+version0,version1,Loc_change,Location,Wuchang Sanfo Pavilion Dachao Street Intersection,Wuchang East Factory Entrance
+version0,version1,Name_change,Name,Ziqiang Institute,Foreign Languages Institute
+version1,version2,Time_change,Time,1902-10-01,1913-07-01
+version1,version2,Name_change,Name,Foreign Languages Institute,National Wuchang Higher Normal College
+version1,version2,Leader_change,Leader,The Qing government,Republic of China
+version2,version3,Time_change,Time,1913-07-01,1923-09-01
+version2,version3,Name_change,Name,National Wuchang Higher Normal College,National Wuchang University
+version3,version4,Time_change,Time,1923-09-01,1925-01-01
+version3,version4,Name_change,Name,National Wuchang Normal University,National Wuchang University
+version4,version5,Time_change,Time,1925-01-01,1926-10-01
+version4,version5,Name_change,Name,National Wuchang University,National Wuchang Zhongshan University
+version5,version6,Time_change,Time,1926-10-01,1928-07-01
+version5,version6,Name_change,Name,National Wuchang Zhongshan University,Wuhan National University
+version6,version7,Time_change,Time,1928-07-01,1932-03-01
+version6,version7,Loc_change,Location,Wuchang East Factory Entrance,Wuchang Luojia Hill
+version7,version8,Time_change,Time,1932-03-01,1938-01-01
+version7,version8,Loc_change,Location,Wuchang Luojia Hill,Leshan, Sichuan
+version8,version9,Time_change,Time,1938-01-01,1946-01-01
+version8,version9,Loc_change,Location,Leshan, Sichuan,Wuchang Luojia Hill
+version9,version10,Time_change,Time,1946-01-01,1949-08-01
+version9,version10,Name_change,Name,Wuhan National University,Wuhan University
+version9,version10,Leader_change,Leader,Republic of China,China
