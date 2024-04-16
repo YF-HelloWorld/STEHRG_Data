@@ -1,8 +1,0 @@
-﻿action_ID,name,label
-action0,Relocation and Rename,action
-action1,Rebuild,action
-action2,Rename,action
-action3,Merge,action
-action4,Restructure,action
-action5,Relocation,action
-action6,Takeover and Rename,action
